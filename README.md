@@ -16,13 +16,19 @@ $G=(V, E)$ is completely connected iff $\forall u \in V,\forall v \in V, u \neq 
 Let $G_1=(V_1 , E_1)$ and $G_2=(V_2, E_2)$ such that $|V_1| = |V_2|$ and $G_1$ and $G_2$
 are both completely connected. 
 
+A function $f: A \rightarrow B is onto iff $\forall b \in B, \exists a \in A$ 
+such that $f(a) = b$. 
+
+A function $f: A \rightarrow B is one-to-one iff $\forall a_1, a_1 \in A , f(a_1) = f(a_2) 
+\implies a_1 = a_2$.
+
 $|V_1| = |V_2|$ and both graphs are completely connected, meaning every vertex $v_1 \in V_1$
 has an edge to each other distinct vertex in that graph. Likewise, every vertex $v_2 \in V_2$
 has an edge to each other distinct vertex in that graph. Therefore, $|E_1| = |E_2|$ and there
 exists an onto function $f: V_1 \rightarrow V_2$ such that $\forall (u_2,v_2) \in E_2, \exists (u_1,v_1)
 \in E_1$ such that $(f(u_1), f(v_1)) = (u_2,v_2)$. 
 
-Since $|G_1| = |G_2|$ and f is onto, f must also be one-to-one. If all $v_2 \in V_2$ are 
+Since $|V_1| = |V_2|$ and f is onto, f must also be one-to-one. If all $v_2 \in V_2$ are 
 mapped to by some $v_1 \in V_1$, then each $v_1$ must map to a unique vertex in $V_2$. This 
 means that f is a bijection between $G_1$ and $G_2$. 
 
