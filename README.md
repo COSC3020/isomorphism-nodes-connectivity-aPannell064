@@ -16,10 +16,10 @@ $G=(V, E)$ is completely connected iff $\forall u \in V,\forall v \in V, u \neq 
 Let $G_1=(V_1 , E_1)$ and $G_2=(V_2, E_2)$ such that $|V_1| = |V_2|$ and $G_1$ and $G_2$
 are both completely connected. 
 
-A function $f: A \rightarrow B is onto iff $\forall b \in B, \exists a \in A$ 
+A function $f: A \rightarrow B$ is onto iff $\forall b \in B, \exists a \in A$ 
 such that $f(a) = b$. 
 
-A function $f: A \rightarrow B is one-to-one iff $\forall a_1, a_1 \in A , f(a_1) = f(a_2) 
+A function $f: A \rightarrow B$ is one-to-one iff $\forall a_1, a_1 \in A , f(a_1) = f(a_2) 
 \implies a_1 = a_2$.
 
 $|V_1| = |V_2|$ and both graphs are completely connected, meaning every vertex $v_1 \in V_1$
