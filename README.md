@@ -15,7 +15,7 @@ $G=(V, E)$ is completely connected iff $\forall u, v \in V, u \neq v
 
 A function $f: V_1 \rightarrow V_2$ is onto iff $\forall v_2, \exists v_1, (v_2 \in V_2 \implies v_2 = f(v_1))$
 
-A function $f: V_1 \rightarrow V_2$ is one-to-one iff $(f(v_1) = f(v_2) \implies v_1 = v_2))$
+A function $f: V_1 \rightarrow V_2$ is one-to-one iff $(f(v_1) = f(v_2) \implies v_1 = v_2$
 
 Let $A=(V_1 , E_1)$ and $G_2=(V_2, E_2)$ such that $|V_1| = |V_2|$ and $G_1$ and $B$
 are both completely connected. 
