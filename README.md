@@ -41,7 +41,7 @@ must be isomorphic.
 ##Extra Help
 
 All of the work done here was my own, but I had to consult some of my notes from COSC 2300 
-to recall the definition of one-to-one and onto. 
+to recall the definitions of one-to-one and onto. 
 
 "I certify that I have listed all sources used to complete this exercise, 
 including the use of any Large Language Models. All of the work is my own, 
