@@ -38,7 +38,7 @@ in $V_2$, the same logic can be applied to conclude that $(f(u),f(v)) \in E_2 \i
 Therefore, since $A$ and $B$ have the same number of nodes and are completely connected, they 
 must be isomorphic.
 
-##Extra Help
+## Extra Help
 
 All of the work done here was my own, but I had to consult some of my notes from COSC 2300 
 to recall the definitions of one-to-one and onto. 
