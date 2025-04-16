@@ -17,12 +17,12 @@ A function $f: V_1 \rightarrow V_2$ is onto iff $\forall v_2, \exists v_1, (v_2 
 
 A function $f: V_1 \rightarrow V_2$ is one-to-one iff $f(v_1) = f(v_2) \implies v_1 = v_2$
 
-Let $A=(V_1 , E_1)$ and $G_2=(V_2, E_2)$ such that $|V_1| = |V_2|$ and $G_1$ and $B$
+Let $A=(V_1 , E_1)$ and $B=(V_2, E_2)$ such that $|V_1| = |V_2|$ and $A$ and $B$
 are both completely connected. 
 
 ### Proof
 
-Because $|V_1| = |V_2|$, there must exists a bijection $f: V_1 \rightarrow V_2$ because 
+Because $|V_1| = |V_2|$, there must exist a bijection $f: V_1 \rightarrow V_2$ because 
 each element in $V_1$ can be mapped to a unique element in $V_2$ and in doing so, every
 element in $V_2$ will be mapped onto by some element in $V_1$. 
 
@@ -41,7 +41,7 @@ must be isomorphic.
 ## Extra Help
 
 All of the work done here was my own, but I had to consult some of my notes from COSC 2300 
-to recall the definitions of one-to-one and onto. 
+to refrsh myself on the definitions of one-to-one and onto. 
 
 "I certify that I have listed all sources used to complete this exercise, 
 including the use of any Large Language Models. All of the work is my own, 
